@@ -1,2 +1,2 @@
 # RagTask
-Author: Aditya H
+Author: Aditya Hiremath
